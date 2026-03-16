@@ -1,0 +1,24 @@
+# python
+venv/
+__pycache__/
+*.pyc
+
+# 모델파일
+*.pkl
+
+# IDE
+.idea/
+.vscode/
+
+# 로그
+*.log
+
+# 빌드
+target/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+venv/
